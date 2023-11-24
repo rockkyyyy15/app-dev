@@ -19,11 +19,13 @@ My first repository
  ![End of F*cking World](eofw.jpg)
 #### Based on the award-winning comic book series by Charles Forsman, `The End of the F...ing World' sees two 17-year-old outsiders, James and Alyssa, embark on a road trip to find Alyssa's estranged father, who left home when she was just a child. 
 - **Atypical**
-![End of F*cking World](eofw.jpg)  
+![Atypical](at.jpg)
+ 
 #### Atypical is an American comedy-drama television series created by Robia Rashid for Netflix.[1] The series takes place in Connecticut, and focuses on the life of 18-year-old Samuel "Sam" Gardner (Keir Gilchrist), who is on the autism spectrum
 
 
 ## Favorite Movies
+
 - Charlie and the Chocolate Factory
 #### Charlie and the Chocolate Factory is a 2005 musical fantasy film directed by Tim Burton and written by John August, based on the 1964 British novel of the same name by Roald Dahl. The film stars Johnny Depp as Willy Wonka and Freddie Highmore as Charlie Bucket, alongside David Kelly, Helena Bonham Carter, Noah Taylor, Missi Pyle, James Fox, Deep Roy, and Christopher Lee. The storyline follows Charlie as he wins a contest along with four other children and is led by Wonka on a tour of his chocolate factory.
 - Captain Phillips
@@ -31,5 +33,5 @@ My first repository
 - Hacksaw Ridge
 #### The film focuses on the World War II experiences of Desmond Doss, an American pacifist combat medic who, as a Seventh-day Adventist Christian, refused to carry or use a weapon or firearm of any kind. Doss became the first conscientious objector to be awarded the Medal of Honor, for service above and beyond the call of duty during the Battle of Okinawa. Andrew Garfield stars as Doss, with Sam Worthington, Luke Bracey, Teresa Palmer, Hugo Weaving, Rachel Griffiths, Vince Vaughn and Richard Pyros in supporting roles.
 
-# I like to watch real life event and even documentaries 
+# I like to watch real life event and even documentaries.
 
